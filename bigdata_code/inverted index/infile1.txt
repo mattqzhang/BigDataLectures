@@ -1,0 +1,2 @@
+1	This is a general test
+2	Let’s learn more map reduce  programming!
